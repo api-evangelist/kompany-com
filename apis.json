@@ -1,0 +1,86 @@
+{
+    "name": "Kompany.com",
+    "description": "KYC KYB AML UBO \u2714 Credit Report & Register Report \u2714 100m Companies \u2714\u00a04m Officers \u2714\u00a0Official & Real Time \u2714\u00a0Instant Online Access",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2159-kompany-com.jpg",
+    "tags": [
+        "api provider",
+        "business",
+        "business information",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kompany-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Kompany.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2159-kompany-com.jpg",
+            "humanURL": "https:\/\/www.kompany.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kompany-com-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kompany-com-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/kompany"
+        },
+        {
+            "type": "Email",
+            "url": "support@kompany.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@kompany.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@kompany.com"
+        },
+        {
+            "type": "Email",
+            "url": "russell.perry@kompany.com"
+        },
+        {
+            "type": "Email",
+            "url": "johanna.konrad@kompany.com"
+        },
+        {
+            "type": "Email",
+            "url": "peter.bc@kompany.com"
+        },
+        {
+            "type": "Email",
+            "url": "jorge.rovira@kompany.com"
+        },
+        {
+            "type": "Email",
+            "url": "andrew.bunce@kompany.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/kompany"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/kompanycom"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.kompany.com\/"
+        }
+    ]
+}
