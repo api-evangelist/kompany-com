@@ -8,8 +8,8 @@
         "business information",
         "have api"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kompany-com\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -22,18 +22,18 @@
             "tags": [],
             "properties": [
                 {
-                    "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kompany-com-openapi.json"
-                },
-                {
                     "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kompany-com-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kompany-com\/master\/kompany-com-postman-collection.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Crunchbase",
             "url": "https:\/\/crunchbase.com\/organization\/kompany"
